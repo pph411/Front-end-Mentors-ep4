@@ -17,7 +17,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://codepen.io/pph411/pen/xxQOLJQ
-- Live Site URL: []
+- Live Site URL: [https://3-column-preview-card-component-flax-ten.vercel.app/]
 
 ### Built with
 
